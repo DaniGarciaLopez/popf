@@ -14,6 +14,7 @@ http://planning.cis.strath.ac.uk/
 In the first instance, for bug reports or technical discussions, contact Andrew Coles (firstname.lastname@cis.strath.ac.uk).
 
 ## Compiling POPF
+Tested on Ubuntu 22.04 (g++ 11)
 
 ```
 sudo apt-get -qy install git g++ cmake coinor-libcbc-dev coinor-libcgl-dev coinor-libclp-dev coinor-libcoinutils-dev bison flex
